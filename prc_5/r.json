@@ -1,0 +1,1299 @@
+{
+    "pageUrl": "/catalog/legkovye/?arCatalogFilter_458_1500340406=Y&set_filter=Y&sort%5Brecommendations%5D=asc&limit=16&PAGEN_1=1",
+    "items": [
+        {
+            "id": 169509,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 8,
+            "season": "Летние",
+            "price": 2960,
+            "name": "175/65 R14 82H Tracmax X-Privilo TX5 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/0ff/275_275_1/xmnxwyqnyw91243op1lovwzt09dga9ot.png",
+            "url": "/catalog/legkovye/17565-r14-82h-tracmax-x-privilo-tx5-tl-ystx5r1407/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "скидка",
+                    "NAME": "Получи скидку при покупке",
+                    "PROMO_COLOR": "gray",
+                    "TYPE_XML_ID": "price-discount",
+                    "PREVIEW_TEXT": "1. Выберите товар и добавьте его в корзину<br/>\n\t\t\t2. Нажмите в корзине кнопку \"Получить скидку\"<br/>\n\t\t\t3. В итоге отобразится цена товара со скидкой<br/>\n\t\t\tПоздравляем с выгодной покупкой!<br/>"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [],
+            "brand": "Tracmax",
+            "brandCode": "",
+            "vendorCode": "YSTX5R1407",
+            "model": "X-Privilo TX5",
+            "raznItems": [
+                {
+                    "id": "169509",
+                    "name": "175/65 R14",
+                    "price": 2960,
+                    "amount": "8",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17565-r14-82h-tracmax-x-privilo-tx5-tl-ystx5r1407/"
+                }
+            ]
+        },
+        {
+            "id": 169133,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "13 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 32,
+            "season": "Летние",
+            "price": 3000,
+            "name": "175/70 R13 82T Goodride Z-107 ZuperEco TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/6ac/275_275_1/xatgftf3ie79rtou3ygcqbpopy0vszdb.png",
+            "url": "/catalog/legkovye/17570-r13-82t-goodride-z-107-zupereco-tl-cts277740/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "скидка",
+                    "NAME": "Получи скидку при покупке",
+                    "PROMO_COLOR": "gray",
+                    "TYPE_XML_ID": "price-discount",
+                    "PREVIEW_TEXT": "1. Выберите товар и добавьте его в корзину<br/>\n\t\t\t2. Нажмите в корзине кнопку \"Получить скидку\"<br/>\n\t\t\t3. В итоге отобразится цена товара со скидкой<br/>\n\t\t\tПоздравляем с выгодной покупкой!<br/>"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [],
+            "brand": "Goodride",
+            "brandCode": "",
+            "vendorCode": "CTS277740",
+            "model": "Z-107 ZuperEco",
+            "raznItems": [
+                {
+                    "id": "169133",
+                    "name": "175/70 R13",
+                    "price": 3000,
+                    "amount": "32",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r13-82t-goodride-z-107-zupereco-tl-cts277740/"
+                }
+            ]
+        },
+        {
+            "id": 168714,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 41,
+            "season": "Летние",
+            "price": 3040,
+            "name": "175/70 R14 84T HIFLY HF201 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/f1e/275_275_1/lrechkfyrjwx3lm88b65zsulh3ilb6vo.png",
+            "url": "/catalog/legkovye/17570-r14-84t-hifly-hf201-tl-200h2070/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "скидка",
+                    "NAME": "Получи скидку при покупке",
+                    "PROMO_COLOR": "gray",
+                    "TYPE_XML_ID": "price-discount",
+                    "PREVIEW_TEXT": "1. Выберите товар и добавьте его в корзину<br/>\n\t\t\t2. Нажмите в корзине кнопку \"Получить скидку\"<br/>\n\t\t\t3. В итоге отобразится цена товара со скидкой<br/>\n\t\t\tПоздравляем с выгодной покупкой!<br/>"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [],
+            "brand": "HIFLY",
+            "brandCode": "",
+            "vendorCode": "200H2070",
+            "model": "HF201",
+            "raznItems": [
+                {
+                    "id": "168714",
+                    "name": "175/70 R14",
+                    "price": 3040,
+                    "amount": "41",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r14-84t-hifly-hf201-tl-200h2070/"
+                },
+                {
+                    "id": "169459",
+                    "name": "185/70 R14",
+                    "price": 3380,
+                    "amount": "16",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18570-r14-88h-hifly-hf201-tl-200h2073/"
+                },
+                {
+                    "id": "169462",
+                    "name": "185/65 R14",
+                    "price": 3160,
+                    "amount": "14",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r14-86h-hifly-hf201-tl-200h2045/"
+                }
+            ]
+        },
+        {
+            "id": 144350,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "165 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 8,
+            "season": "Летние",
+            "price": 3060,
+            "name": "165/65 R14 79H Triangle TE301 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/c64/275_275_1/cjnsjz2c19tlaw23kpp1t1bj330zgf7p.png",
+            "url": "/catalog/legkovye/16565r14-79h-te301-tl-ms-cts237321/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "скидка",
+                    "NAME": "Получи скидку при покупке",
+                    "PROMO_COLOR": "gray",
+                    "TYPE_XML_ID": "price-discount",
+                    "PREVIEW_TEXT": "1. Выберите товар и добавьте его в корзину<br/>\n\t\t\t2. Нажмите в корзине кнопку \"Получить скидку\"<br/>\n\t\t\t3. В итоге отобразится цена товара со скидкой<br/>\n\t\t\tПоздравляем с выгодной покупкой!<br/>"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [],
+            "brand": "TRIANGLE",
+            "brandCode": "",
+            "vendorCode": "CTS237321",
+            "model": "Protract TE301",
+            "raznItems": [
+                {
+                    "id": "144350",
+                    "name": "165/65 R14",
+                    "price": 3060,
+                    "amount": "8",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/16565r14-79h-te301-tl-ms-cts237321/"
+                },
+                {
+                    "id": "144352",
+                    "name": "185/60 R14",
+                    "price": 3410,
+                    "amount": "3",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560r14-82h-te301-tl-ms-cts237348/"
+                },
+                {
+                    "id": "147688",
+                    "name": "175/65 R14",
+                    "price": 3200,
+                    "amount": "18",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17565r14-86h-te301-tl-cts236696/"
+                }
+            ]
+        },
+        {
+            "id": 169462,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 14,
+            "season": "Летние",
+            "price": 3160,
+            "name": "185/65 R14 86H HIFLY HF201 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/49d/275_275_1/s8uwtklovdk0fqh721ifj26usivy2kjt.png",
+            "url": "/catalog/legkovye/18565-r14-86h-hifly-hf201-tl-200h2045/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "скидка",
+                    "NAME": "Получи скидку при покупке",
+                    "PROMO_COLOR": "gray",
+                    "TYPE_XML_ID": "price-discount",
+                    "PREVIEW_TEXT": "1. Выберите товар и добавьте его в корзину<br/>\n\t\t\t2. Нажмите в корзине кнопку \"Получить скидку\"<br/>\n\t\t\t3. В итоге отобразится цена товара со скидкой<br/>\n\t\t\tПоздравляем с выгодной покупкой!<br/>"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [],
+            "brand": "HIFLY",
+            "brandCode": "",
+            "vendorCode": "200H2045",
+            "model": "HF201",
+            "raznItems": [
+                {
+                    "id": "168714",
+                    "name": "175/70 R14",
+                    "price": 3040,
+                    "amount": "41",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r14-84t-hifly-hf201-tl-200h2070/"
+                },
+                {
+                    "id": "169459",
+                    "name": "185/70 R14",
+                    "price": 3380,
+                    "amount": "16",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18570-r14-88h-hifly-hf201-tl-200h2073/"
+                },
+                {
+                    "id": "169462",
+                    "name": "185/65 R14",
+                    "price": 3160,
+                    "amount": "14",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r14-86h-hifly-hf201-tl-200h2045/"
+                }
+            ]
+        },
+        {
+            "id": 159998,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 4,
+            "season": "Летние",
+            "price": 3160,
+            "name": "185/55 R14 80H CACHLAND CH-268 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/124/275_275_1/jwjnkgcif5v6hiqtf5e0j3gierjvu7ic.png",
+            "url": "/catalog/legkovye/18555r14-80h-ch-268-tl/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "скидка",
+                    "NAME": "Получи скидку при покупке",
+                    "PROMO_COLOR": "gray",
+                    "TYPE_XML_ID": "price-discount",
+                    "PREVIEW_TEXT": "1. Выберите товар и добавьте его в корзину<br/>\n\t\t\t2. Нажмите в корзине кнопку \"Получить скидку\"<br/>\n\t\t\t3. В итоге отобразится цена товара со скидкой<br/>\n\t\t\tПоздравляем с выгодной покупкой!<br/>"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [],
+            "brand": "CACHLAND",
+            "brandCode": "",
+            "vendorCode": "6970005590391",
+            "model": "CH-268",
+            "raznItems": [
+                {
+                    "id": "159998",
+                    "name": "185/55 R14",
+                    "price": 3160,
+                    "amount": "4",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18555r14-80h-ch-268-tl/"
+                }
+            ]
+        },
+        {
+            "id": 147688,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 18,
+            "season": "Летние",
+            "price": 3200,
+            "name": "175/65R14 86H TE301 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/28d/275_275_1/3ugq9mg0xv9mqgxp03bng18vl8841rj7.png",
+            "url": "/catalog/legkovye/17565r14-86h-te301-tl-cts236696/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "скидка",
+                    "NAME": "Получи скидку при покупке",
+                    "PROMO_COLOR": "gray",
+                    "TYPE_XML_ID": "price-discount",
+                    "PREVIEW_TEXT": "1. Выберите товар и добавьте его в корзину<br/>\n\t\t\t2. Нажмите в корзине кнопку \"Получить скидку\"<br/>\n\t\t\t3. В итоге отобразится цена товара со скидкой<br/>\n\t\t\tПоздравляем с выгодной покупкой!<br/>"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [],
+            "brand": "TRIANGLE",
+            "brandCode": "",
+            "vendorCode": "CTS236696",
+            "model": "Protract TE301",
+            "raznItems": [
+                {
+                    "id": "144350",
+                    "name": "165/65 R14",
+                    "price": 3060,
+                    "amount": "8",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/16565r14-79h-te301-tl-ms-cts237321/"
+                },
+                {
+                    "id": "144352",
+                    "name": "185/60 R14",
+                    "price": 3410,
+                    "amount": "3",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560r14-82h-te301-tl-ms-cts237348/"
+                },
+                {
+                    "id": "147688",
+                    "name": "175/65 R14",
+                    "price": 3200,
+                    "amount": "18",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17565r14-86h-te301-tl-cts236696/"
+                }
+            ]
+        },
+        {
+            "id": 169459,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 16,
+            "season": "Летние",
+            "price": 3380,
+            "name": "185/70 R14 88H HIFLY HF201 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/bb3/275_275_1/2750oxjboci57x4eoeoaynlx5l2stn09.png",
+            "url": "/catalog/legkovye/18570-r14-88h-hifly-hf201-tl-200h2073/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "скидка",
+                    "NAME": "Получи скидку при покупке",
+                    "PROMO_COLOR": "gray",
+                    "TYPE_XML_ID": "price-discount",
+                    "PREVIEW_TEXT": "1. Выберите товар и добавьте его в корзину<br/>\n\t\t\t2. Нажмите в корзине кнопку \"Получить скидку\"<br/>\n\t\t\t3. В итоге отобразится цена товара со скидкой<br/>\n\t\t\tПоздравляем с выгодной покупкой!<br/>"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [],
+            "brand": "HIFLY",
+            "brandCode": "",
+            "vendorCode": "200H2073",
+            "model": "HF201",
+            "raznItems": [
+                {
+                    "id": "168714",
+                    "name": "175/70 R14",
+                    "price": 3040,
+                    "amount": "41",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17570-r14-84t-hifly-hf201-tl-200h2070/"
+                },
+                {
+                    "id": "169459",
+                    "name": "185/70 R14",
+                    "price": 3380,
+                    "amount": "16",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18570-r14-88h-hifly-hf201-tl-200h2073/"
+                },
+                {
+                    "id": "169462",
+                    "name": "185/65 R14",
+                    "price": 3160,
+                    "amount": "14",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r14-86h-hifly-hf201-tl-200h2045/"
+                }
+            ]
+        },
+        {
+            "id": 168426,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "155 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 1,
+            "season": "Летние",
+            "price": 3390,
+            "name": "155/65 R14 75T KORMORAN All Season TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/a2b/275_275_1/larmtv3am8wgvr6tbg0cz6je709n9glx.png",
+            "url": "/catalog/legkovye/15565-r14-75t-kormoran-all-season-tl-905387/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "скидка",
+                    "NAME": "Получи скидку при покупке",
+                    "PROMO_COLOR": "gray",
+                    "TYPE_XML_ID": "price-discount",
+                    "PREVIEW_TEXT": "1. Выберите товар и добавьте его в корзину<br/>\n\t\t\t2. Нажмите в корзине кнопку \"Получить скидку\"<br/>\n\t\t\t3. В итоге отобразится цена товара со скидкой<br/>\n\t\t\tПоздравляем с выгодной покупкой!<br/>"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [],
+            "brand": "KORMORAN",
+            "brandCode": "",
+            "vendorCode": "905387",
+            "model": "All Season",
+            "raznItems": [
+                {
+                    "id": "168426",
+                    "name": "155/65 R14",
+                    "price": 3390,
+                    "amount": "1",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/15565-r14-75t-kormoran-all-season-tl-905387/"
+                }
+            ]
+        },
+        {
+            "id": 144352,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 3,
+            "season": "Летние",
+            "price": 3410,
+            "name": "185/60R14 82H TE301 TL M+S",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/local/templates/roscar/img/svg/product-temp.svg",
+            "url": "/catalog/legkovye/18560r14-82h-te301-tl-ms-cts237348/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "скидка",
+                    "NAME": "Получи скидку при покупке",
+                    "PROMO_COLOR": "gray",
+                    "TYPE_XML_ID": "price-discount",
+                    "PREVIEW_TEXT": "1. Выберите товар и добавьте его в корзину<br/>\n\t\t\t2. Нажмите в корзине кнопку \"Получить скидку\"<br/>\n\t\t\t3. В итоге отобразится цена товара со скидкой<br/>\n\t\t\tПоздравляем с выгодной покупкой!<br/>"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [],
+            "brand": "TRIANGLE",
+            "brandCode": "",
+            "vendorCode": "CTS237348",
+            "model": "Protract TE301",
+            "raznItems": [
+                {
+                    "id": "144350",
+                    "name": "165/65 R14",
+                    "price": 3060,
+                    "amount": "8",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/16565r14-79h-te301-tl-ms-cts237321/"
+                },
+                {
+                    "id": "144352",
+                    "name": "185/60 R14",
+                    "price": 3410,
+                    "amount": "3",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18560r14-82h-te301-tl-ms-cts237348/"
+                },
+                {
+                    "id": "147688",
+                    "name": "175/65 R14",
+                    "price": 3200,
+                    "amount": "18",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17565r14-86h-te301-tl-cts236696/"
+                }
+            ]
+        },
+        {
+            "id": 168685,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "195 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 41,
+            "season": "Летние",
+            "price": 3420,
+            "name": "195/65 R15 91V HIFLY HF201 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/570/275_275_1/50odjo2t176jtrph3buskrxj83bgrib9.png",
+            "url": "/catalog/legkovye/19565-r15-91v-hifly-hf201-tl-200h2051/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "скидка",
+                    "NAME": "Получи скидку при покупке",
+                    "PROMO_COLOR": "gray",
+                    "TYPE_XML_ID": "price-discount",
+                    "PREVIEW_TEXT": "1. Выберите товар и добавьте его в корзину<br/>\n\t\t\t2. Нажмите в корзине кнопку \"Получить скидку\"<br/>\n\t\t\t3. В итоге отобразится цена товара со скидкой<br/>\n\t\t\tПоздравляем с выгодной покупкой!<br/>"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [],
+            "brand": "HIFLY",
+            "brandCode": "",
+            "vendorCode": "200H2051",
+            "model": "HF201",
+            "raznItems": [
+                {
+                    "id": "167935",
+                    "name": "195/60 R15",
+                    "price": 3660,
+                    "amount": "41",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19560-r15-88v-hifly-hf201-tl-200h2027/"
+                },
+                {
+                    "id": "168492",
+                    "name": "205/65 R15",
+                    "price": 4040,
+                    "amount": "12",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/20565-r15-94v-hifly-hf201-tl-200h2054/"
+                },
+                {
+                    "id": "168507",
+                    "name": "205/70 R15",
+                    "price": 4780,
+                    "amount": "28",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/20570-r15-96h-hifly-hf201-tl-200h2081/"
+                },
+                {
+                    "id": "168685",
+                    "name": "195/65 R15",
+                    "price": 3420,
+                    "amount": "41",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19565-r15-91v-hifly-hf201-tl-200h2051/"
+                },
+                {
+                    "id": "168806",
+                    "name": "185/55 R15",
+                    "price": 3460,
+                    "amount": "8",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18555-r15-82v-hifly-hf201-tl-200h2010/"
+                },
+                {
+                    "id": "169308",
+                    "name": "195/50 R15",
+                    "price": 3430,
+                    "amount": "12",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19550-r15-82v-hifly-hf201-tl-200h2002/"
+                }
+            ]
+        },
+        {
+            "id": 169308,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "195 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 12,
+            "season": "Летние",
+            "price": 3430,
+            "name": "195/50 R15 82V HIFLY HF201 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/173/275_275_1/ibajl6tvzprxo648v6j3uph4wt0wv21g.png",
+            "url": "/catalog/legkovye/19550-r15-82v-hifly-hf201-tl-200h2002/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "скидка",
+                    "NAME": "Получи скидку при покупке",
+                    "PROMO_COLOR": "gray",
+                    "TYPE_XML_ID": "price-discount",
+                    "PREVIEW_TEXT": "1. Выберите товар и добавьте его в корзину<br/>\n\t\t\t2. Нажмите в корзине кнопку \"Получить скидку\"<br/>\n\t\t\t3. В итоге отобразится цена товара со скидкой<br/>\n\t\t\tПоздравляем с выгодной покупкой!<br/>"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [],
+            "brand": "HIFLY",
+            "brandCode": "",
+            "vendorCode": "200H2002",
+            "model": "HF201",
+            "raznItems": [
+                {
+                    "id": "167935",
+                    "name": "195/60 R15",
+                    "price": 3660,
+                    "amount": "41",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19560-r15-88v-hifly-hf201-tl-200h2027/"
+                },
+                {
+                    "id": "168492",
+                    "name": "205/65 R15",
+                    "price": 4040,
+                    "amount": "12",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/20565-r15-94v-hifly-hf201-tl-200h2054/"
+                },
+                {
+                    "id": "168507",
+                    "name": "205/70 R15",
+                    "price": 4780,
+                    "amount": "28",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/20570-r15-96h-hifly-hf201-tl-200h2081/"
+                },
+                {
+                    "id": "168685",
+                    "name": "195/65 R15",
+                    "price": 3420,
+                    "amount": "41",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19565-r15-91v-hifly-hf201-tl-200h2051/"
+                },
+                {
+                    "id": "168806",
+                    "name": "185/55 R15",
+                    "price": 3460,
+                    "amount": "8",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18555-r15-82v-hifly-hf201-tl-200h2010/"
+                },
+                {
+                    "id": "169308",
+                    "name": "195/50 R15",
+                    "price": 3430,
+                    "amount": "12",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19550-r15-82v-hifly-hf201-tl-200h2002/"
+                }
+            ]
+        },
+        {
+            "id": 169510,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 8,
+            "season": "Летние",
+            "price": 3460,
+            "name": "185/65 R15 88H Tracmax X-Privilo TX5 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/66f/275_275_1/w1i0y4bz6i8mnjhmnp8klmvr114wf9zx.png",
+            "url": "/catalog/legkovye/18565-r15-88h-tracmax-x-privilo-tx5-tl-ystx5r1510/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "скидка",
+                    "NAME": "Получи скидку при покупке",
+                    "PROMO_COLOR": "gray",
+                    "TYPE_XML_ID": "price-discount",
+                    "PREVIEW_TEXT": "1. Выберите товар и добавьте его в корзину<br/>\n\t\t\t2. Нажмите в корзине кнопку \"Получить скидку\"<br/>\n\t\t\t3. В итоге отобразится цена товара со скидкой<br/>\n\t\t\tПоздравляем с выгодной покупкой!<br/>"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [],
+            "brand": "Tracmax",
+            "brandCode": "",
+            "vendorCode": "YSTX5R1510",
+            "model": "X-Privilo TX5",
+            "raznItems": [
+                {
+                    "id": "169510",
+                    "name": "185/65 R15",
+                    "price": 3460,
+                    "amount": "8",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18565-r15-88h-tracmax-x-privilo-tx5-tl-ystx5r1510/"
+                },
+                {
+                    "id": "169511",
+                    "name": "205/65 R15",
+                    "price": 4270,
+                    "amount": "8",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/20565-r15-94h-tracmax-x-privilo-tx5-tl-ystx5r1519/"
+                }
+            ]
+        },
+        {
+            "id": 168806,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 8,
+            "season": "Летние",
+            "price": 3460,
+            "name": "185/55 R15 82V HIFLY HF201 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/3e1/275_275_1/r3ncf2zft3top71rgcrdcbub4dshptli.png",
+            "url": "/catalog/legkovye/18555-r15-82v-hifly-hf201-tl-200h2010/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "скидка",
+                    "NAME": "Получи скидку при покупке",
+                    "PROMO_COLOR": "gray",
+                    "TYPE_XML_ID": "price-discount",
+                    "PREVIEW_TEXT": "1. Выберите товар и добавьте его в корзину<br/>\n\t\t\t2. Нажмите в корзине кнопку \"Получить скидку\"<br/>\n\t\t\t3. В итоге отобразится цена товара со скидкой<br/>\n\t\t\tПоздравляем с выгодной покупкой!<br/>"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [],
+            "brand": "HIFLY",
+            "brandCode": "",
+            "vendorCode": "200H2010",
+            "model": "HF201",
+            "raznItems": [
+                {
+                    "id": "167935",
+                    "name": "195/60 R15",
+                    "price": 3660,
+                    "amount": "41",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19560-r15-88v-hifly-hf201-tl-200h2027/"
+                },
+                {
+                    "id": "168492",
+                    "name": "205/65 R15",
+                    "price": 4040,
+                    "amount": "12",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/20565-r15-94v-hifly-hf201-tl-200h2054/"
+                },
+                {
+                    "id": "168507",
+                    "name": "205/70 R15",
+                    "price": 4780,
+                    "amount": "28",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/20570-r15-96h-hifly-hf201-tl-200h2081/"
+                },
+                {
+                    "id": "168685",
+                    "name": "195/65 R15",
+                    "price": 3420,
+                    "amount": "41",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19565-r15-91v-hifly-hf201-tl-200h2051/"
+                },
+                {
+                    "id": "168806",
+                    "name": "185/55 R15",
+                    "price": 3460,
+                    "amount": "8",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18555-r15-82v-hifly-hf201-tl-200h2010/"
+                },
+                {
+                    "id": "169308",
+                    "name": "195/50 R15",
+                    "price": 3430,
+                    "amount": "12",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19550-r15-82v-hifly-hf201-tl-200h2002/"
+                }
+            ]
+        },
+        {
+            "id": 160496,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 2,
+            "season": "Летние",
+            "price": 3530,
+            "name": "175/80 R14 88T SAILUN Atrezzo Eco TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/68f/275_275_1/v2p1i9s6n6b9ys4lz0n5u0fl7sj63u2j.png",
+            "url": "/catalog/legkovye/17580r14-88t-atrezzo-eco-tl/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "скидка",
+                    "NAME": "Получи скидку при покупке",
+                    "PROMO_COLOR": "gray",
+                    "TYPE_XML_ID": "price-discount",
+                    "PREVIEW_TEXT": "1. Выберите товар и добавьте его в корзину<br/>\n\t\t\t2. Нажмите в корзине кнопку \"Получить скидку\"<br/>\n\t\t\t3. В итоге отобразится цена товара со скидкой<br/>\n\t\t\tПоздравляем с выгодной покупкой!<br/>"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [],
+            "brand": "SAILUN",
+            "brandCode": "",
+            "vendorCode": "3220010762",
+            "model": "Atrezzo Eco",
+            "raznItems": [
+                {
+                    "id": "160496",
+                    "name": "175/80 R14",
+                    "price": 3530,
+                    "amount": "2",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/17580r14-88t-atrezzo-eco-tl/"
+                }
+            ]
+        },
+        {
+            "id": 169260,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 16,
+            "season": "Летние",
+            "price": 3630,
+            "name": "185/55 R15 82V Goodride Z-107 ZuperEco TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/rembg-image/44d/275_275_1/tglg6r4qv1sr352ou01bpyjkdehhuc7a.png",
+            "url": "/catalog/legkovye/18555-r15-82v-goodride-z-107-zupereco-tl-cts277715/",
+            "promo": [
+                {
+                    "PROMO_TYPE": "скидка",
+                    "NAME": "Получи скидку при покупке",
+                    "PROMO_COLOR": "gray",
+                    "TYPE_XML_ID": "price-discount",
+                    "PREVIEW_TEXT": "1. Выберите товар и добавьте его в корзину<br/>\n\t\t\t2. Нажмите в корзине кнопку \"Получить скидку\"<br/>\n\t\t\t3. В итоге отобразится цена товара со скидкой<br/>\n\t\t\tПоздравляем с выгодной покупкой!<br/>"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [],
+            "brand": "Goodride",
+            "brandCode": "",
+            "vendorCode": "CTS277715",
+            "model": "Z-107 ZuperEco",
+            "raznItems": [
+                {
+                    "id": "169260",
+                    "name": "185/55 R15",
+                    "price": 3630,
+                    "amount": "16",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/18555-r15-82v-goodride-z-107-zupereco-tl-cts277715/"
+                },
+                {
+                    "id": "169261",
+                    "name": "195/65 R15",
+                    "price": 4050,
+                    "amount": "28",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19565-r15-91v-goodride-z-107-zupereco-tl-cts277749/"
+                },
+                {
+                    "id": "169461",
+                    "name": "195/50 R15",
+                    "price": 4030,
+                    "amount": "12",
+                    "quantity": 1,
+                    "url": "/catalog/legkovye/19550-r15-82v-goodride-z-107-zupereco-tl-cts277719/"
+                }
+            ]
+        }
+    ],
+    "filter": {
+        "0": {
+            "LOGIC": "OR",
+            ">STORE_AMOUNT_158": 0,
+            ">STORE_AMOUNT_175": 0,
+            ">STORE_AMOUNT_184": 0,
+            ">STORE_AMOUNT_191": 0,
+            ">STORE_AMOUNT_192": 0,
+            ">STORE_AMOUNT_194": 0
+        },
+        "1": {
+            "LOGIC": "OR",
+            ">CATALOG_CATALOG_GROUP_ID_90": 0,
+            ">CATALOG_CATALOG_GROUP_ID_96": 0,
+            ">CATALOG_CATALOG_GROUP_ID_97": 0,
+            ">CATALOG_CATALOG_GROUP_ID_98": 0,
+            ">CATALOG_CATALOG_GROUP_ID_26": 0
+        },
+        "2": {
+            "LOGIC": "OR",
+            ">STORE_AMOUNT_158": 0,
+            ">STORE_AMOUNT_175": 0,
+            ">STORE_AMOUNT_184": 0,
+            ">STORE_AMOUNT_191": 0,
+            ">STORE_AMOUNT_192": 0,
+            ">STORE_AMOUNT_194": 0
+        },
+        "3": {
+            "LOGIC": "OR",
+            ">CATALOG_CATALOG_GROUP_ID_90": 0,
+            ">CATALOG_CATALOG_GROUP_ID_96": 0,
+            ">CATALOG_CATALOG_GROUP_ID_97": 0,
+            ">CATALOG_CATALOG_GROUP_ID_98": 0,
+            ">CATALOG_CATALOG_GROUP_ID_26": 0
+        },
+        "=PROPERTY_458": [
+            "154"
+        ]
+    },
+    "promo": {
+        "id": "165954",
+        "url": "/promo/shiny-v-rassrochku/",
+        "name": "Покупки в рассрочку",
+        "text": "Теперь вы можете купить зимние шины, или диски в рассрочку быстро и легко: без первоначального взноса и без переплаты!",
+        "imgSrc": "/upload/resize_cache/iblock/356/1075_613_1/8iiw8xmv2bzky9euo9mn57dqx6dk3xa9.jpg",
+        "videoSrc": null
+    },
+    "promoFilter": {
+        "IBLOCK_ID": 10,
+        "ACTIVE": "Y",
+        "=PROPERTY_SECTION": 206,
+        "=PROPERTY_CATALOG_SEASON": [
+            false,
+            204
+        ],
+        "=PROPERTY_CATALOG_BRAND": [
+            false
+        ]
+    },
+    "navNum": 1,
+    "pagesCount": 51,
+    "pageNum": 1
+}
